@@ -5,3 +5,6 @@ C:\Users\xavie\source\repos\Ejercicios_bloque_ll\ejercicio_list_personas\obj\Deb
 C:\Users\xavie\source\repos\Ejercicios_bloque_ll\ejercicio_list_personas\obj\Debug\ejercicio_list_personas.csproj.CoreCompileInputs.cache
 C:\Users\xavie\source\repos\Ejercicios_bloque_ll\ejercicio_list_personas\obj\Debug\ejercicio_list_personas.exe
 C:\Users\xavie\source\repos\Ejercicios_bloque_ll\ejercicio_list_personas\obj\Debug\ejercicio_list_personas.pdb
+C:\Git\Prueba_list_personas\Ejercicio_list_personas\bin\Debug\ejercicio_list_personas.exe.config
+C:\Git\Prueba_list_personas\Ejercicio_list_personas\obj\Debug\ejercicio_list_personas.exe
+C:\Git\Prueba_list_personas\Ejercicio_list_personas\obj\Debug\ejercicio_list_personas.pdb
