@@ -14,7 +14,7 @@ namespace ejercicio_list_personas
         public string Apellidos { get; set; }
         public int Edad { get; set; }
         public string Telefono { get; set; }
-        //prueba comentario
+        //prueba comentario     
         //Constructor
         public Persona()
         {
@@ -30,6 +30,11 @@ namespace ejercicio_list_personas
             Nombre = nombre;
             Apellidos = apellidos;
             Edad = edad;
+        }
+        
+        public void Saludar()
+        {
+            Console.WriteLine("HoLA");
         }
     }
 }
