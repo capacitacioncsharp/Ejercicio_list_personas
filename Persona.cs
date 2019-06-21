@@ -14,6 +14,7 @@ namespace ejercicio_list_personas
         public string Apellidos { get; set; }
         public int Edad { get; set; }
         public string Telefono { get; set; }
+        public decimal peso { get; set; }
         //Constructor
         public Persona()
         {
