@@ -13,6 +13,8 @@ namespace ejercicio_list_personas
         public string Nombre { get; set; }
         public string Apellidos { get; set; }
         public int Edad { get; set; }
+        public string Telefono { get; set; }
+        //prueba comentario
         //Constructor
         public Persona()
         {
